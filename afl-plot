@@ -5,6 +5,7 @@
 #
 # Originally written by Michal Zalewski
 # Based on a design & prototype by Michael Rash.
+# Support extended to multiple plots by Jay Shah
 #
 # Copyright 2014, 2015 Google Inc. All rights reserved.
 #
